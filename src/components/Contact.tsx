@@ -17,14 +17,7 @@ const Contact = () => {
 
         <div className="flex justify-center">
           {/* Contact Information */}
-          <div className="space-y-8 max-w-2xl">
-            <div>
-              <h3 className="text-2xl font-bold text-white mb-6 text-center">Let's Connect</h3>
-              <p className="text-gray-300 text-lg leading-relaxed mb-8 text-center">
-                I'm always excited to discuss new opportunities, collaborate on interesting projects, 
-                or help fellow developers with C++ and competitive programming challenges. Feel free to reach out!
-              </p>
-            </div>
+          
 
            {/* Contact Details */}
 <div className="px-4 sm:px-6 md:px-10">
