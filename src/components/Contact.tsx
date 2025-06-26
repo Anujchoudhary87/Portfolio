@@ -15,7 +15,7 @@ const Contact = () => {
           </p>
         </div>
 
-    <div className="flex justify-center">Add commentMore actions
+    <div className="flex justify-center">
           {/* Contact Information */}
         <div className="space-y-8 max-w-2xl">
           
