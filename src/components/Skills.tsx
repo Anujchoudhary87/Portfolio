@@ -72,24 +72,8 @@ const Skills = () => {
               ))}
             </div>
 
-            {/* Services Section */}
-            <div className="mt-12">
-              <h3 className="text-2xl font-bold text-white mb-6">Services I Offer</h3>
-              <div className="space-y-4">
-                <div className="bg-gradient-to-r from-blue-500/10 to-purple-600/10 rounded-lg p-6 border border-blue-400/20">
-                  <h4 className="text-xl font-semibold text-blue-400 mb-2">C++ Tutoring</h4>
-                  <p className="text-gray-300">Teach programming & DSA from scratch to advanced levels</p>
-                </div>
-                <div className="bg-gradient-to-r from-purple-500/10 to-blue-600/10 rounded-lg p-6 border border-purple-400/20">
-                  <h4 className="text-xl font-semibold text-purple-400 mb-2">Competitive Programming Help</h4>
-                  <p className="text-gray-300">Assist with Codeforces/LeetCode problems and strategies</p>
-                </div>
-                <div className="bg-gradient-to-r from-blue-600/10 to-purple-500/10 rounded-lg p-6 border border-blue-400/20">
-                  <h4 className="text-xl font-semibold text-blue-400 mb-2">C++ Project Support</h4>
-                  <p className="text-gray-300">Guide students in building/debugging console-based C++ projects</p>
-                </div>
-              </div>
-            </div>
+
+           
           </div>
         </div>
       </div>
