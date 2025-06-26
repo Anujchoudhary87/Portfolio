@@ -3,7 +3,7 @@
 I’m Anuj Kumar, a passionate coder with deep expertise in C++, competitive programming, web development, and data science. I thrive on solving complex algorithmic problems and building impactful projects.
 
 
-
+![iamge alt](https://github.com/Anujchoudhary87/Portfolio/blob/4b78bebcafd5cb5bbfb9f8e799ccd13a383b6c72/main.png)
 
 ## Education
 
@@ -33,6 +33,7 @@ Core Strengths: Competitive Programming, Data Structures & Algorithms
 
 🔗 Library Management System (2025)
 
+![iamge alt](https://github.com/Anujchoudhary87/Portfolio/blob/4b78bebcafd5cb5bbfb9f8e799ccd13a383b6c72/Projects.png)
 
 ## 📚 Key Courses Taken
 
@@ -52,7 +53,7 @@ Core Strengths: Competitive Programming, Data Structures & Algorithms
 
     Economics, Human Geography & Social Needs, Tinkering Lab
 
-
+![iamge alt](https://github.com/Anujchoudhary87/Portfolio/blob/4b78bebcafd5cb5bbfb9f8e799ccd13a383b6c72/Experience.png)
 
 ## 🏅 Positions of Responsibility
 Hostel Representative, BOHA, IIT Ropar (2024–2025)
