@@ -26,32 +26,33 @@ const Contact = () => {
               </p>
             </div>
 
-            {/* Contact Details */}
-            <div className="space-y-6">
-              <div className="flex items-center space-x-4 justify-center">
-                <div className="w-12 h-12 bg-gradient-to-r from-blue-500 to-purple-600 rounded-lg flex items-center justify-center">
-                  <Mail className="text-white" size={20} />
-                </div>
-                <div>
-                  <p className="text-white font-semibold">Email</p>
-                  <a href="mailto:2023eeb1187@iitrpr.ac.in" className="text-blue-400 hover:text-blue-300 transition-colors">
-                    2023eeb1187@iitrpr.ac.in
-                  </a>
-                </div>
-              </div>
+           {/* Contact Details */}
+<div className="space-y-10 px-4 sm:px-6 md:px-10">
+  <div className="flex flex-col sm:flex-row sm:items-center sm:justify-center gap-4 text-center sm:text-left">
+    <div className="w-12 h-12 mx-auto sm:mx-0 bg-gradient-to-r from-blue-500 to-purple-600 rounded-lg flex items-center justify-center">
+      <Mail className="text-white" size={20} />
+    </div>
+    <div>
+      <p className="text-white font-semibold">Email</p>
+      <a href="mailto:2023eeb1187@iitrpr.ac.in" className="text-blue-400 hover:text-blue-300 transition-colors break-words">
+        2023eeb1187@iitrpr.ac.in
+      </a>
+    </div>
+  </div>
 
-              <div className="flex items-center space-x-4 justify-center">
-                <div className="w-12 h-12 bg-gradient-to-r from-purple-500 to-blue-600 rounded-lg flex items-center justify-center">
-                  <Phone className="text-white" size={20} />
-                </div>
-                <div>
-                  <p className="text-white font-semibold">Phone</p>
-                  <a href="tel:+919116082379" className="text-blue-400 hover:text-blue-300 transition-colors">
-                    +91 91160 82379
-                  </a>
-                </div>
-              </div>
-            </div>
+  <div className="flex flex-col sm:flex-row sm:items-center sm:justify-center gap-4 text-center sm:text-left">
+    <div className="w-12 h-12 mx-auto sm:mx-0 bg-gradient-to-r from-purple-500 to-blue-600 rounded-lg flex items-center justify-center">
+      <Phone className="text-white" size={20} />
+    </div>
+    <div>
+      <p className="text-white font-semibold">Phone</p>
+      <a href="tel:+919116082379" className="text-blue-400 hover:text-blue-300 transition-colors">
+        +91 91160 82379
+      </a>
+    </div>
+  </div>
+</div>
+
 
             {/* Social Links */}
             <div className="text-center">
