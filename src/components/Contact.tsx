@@ -15,8 +15,7 @@ const Contact = () => {
           </p>
         </div>
 
-        <div className="flex justify-center">
-          {/* Contact Information */}
+       
           
 
            {/* Contact Details */}
