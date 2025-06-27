@@ -20,16 +20,16 @@ const Projects = () => {
 },
 
     {
-      title: 'Library Management System',
-      description: 'A comprehensive C++ application for managing library operations including book cataloging, member management, and loan tracking. Features advanced file handling and object-oriented design patterns.',
-      technologies: ['C++', 'File Handling', 'OOP', 'Data Structures'],
+      title: 'Lost and Found Portal',
+      description: 'A secure C++ console-based application that allows students to report found items and search for lost ones. The portal uses file handling and object-oriented programming to manage and match item records efficiently.',
+      technologies: ['C++', 'OOP', 'File Handling', 'Console I/O', 'STL'],
       features: [
-        'Complete CRUD operations for books and members',
-        'Advanced search and filtering capabilities',
-        'Automated fine calculation system',
-        'Persistent data storage using file I/O'
+        'User registration and login authentication',
+        'Report and record found items with detailed attributes',
+        'Search lost items with exact match logic and optional removal',
+        'Admin features to view or erase lost and found entries'
       ],
-      githubLink: 'https://github.com/Anujchoudhary87/Library_management',
+      githubLink: 'https://github.com/Anujchoudhary87/Lost-and-Found-',
       liveLink: null
     },
     
