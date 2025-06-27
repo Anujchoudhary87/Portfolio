@@ -18,6 +18,19 @@ const Projects = () => {
   githubLink: 'https://github.com/Anujchoudhary87/Sorting-Algorithm-Visualizer',
   liveLink: null
 },
+    {
+  "title": "Lost and Found Portal",
+  "description": "A secure C++ console-based application that allows students to report found items and search for lost ones. The portal uses file handling and object-oriented programming to manage and match item records efficiently.",
+  "technologies": ["C++", "OOP", "File Handling", "Console I/O", "STL"],
+  "features": [
+    "User registration and login authentication",
+    "Report and record found items with detailed attributes",
+    "Search lost items with exact match logic and optional removal",
+    "Admin features to view or erase lost and found entries"
+  ],
+  "githubLink": "https://github.com/Anujchoudhary87/Lost-and-Found-",
+  "liveLink": null
+}
 
     {
       title: 'Library Management System',
