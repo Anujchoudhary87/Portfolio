@@ -18,19 +18,34 @@ const Projects = () => {
   githubLink: 'https://github.com/Anujchoudhary87/Sorting-Algorithm-Visualizer',
   liveLink: null
 },
+
     {
-  title: 'Lost and Found Portal',
-  description: 'A secure C++ console-based application that allows students to report found items and search for lost ones. The portal uses file handling and object-oriented programming to manage and match item records efficiently.',
-  technologies: ['C++', 'OOP', 'File Handling', 'Console I/O', 'STL'],
-  features: [
-    'User registration and login authentication',
-    'Report and record found items with detailed attributes',
-    'Search lost items with exact match logic and optional removal',
-    'Admin features to view or erase lost and found entries'
-  ],
-  githubLink: 'https://github.com/Anujchoudhary87/Lost-and-Found-',
-  liveLink: null
-}
+      title: 'DSA Practice Repository',
+      description: 'A comprehensive collection of solved algorithmic problems from various platforms, showcasing proficiency in data structures and algorithms.',
+      technologies: ['C++', 'Algorithms', 'Data Structures', 'Problem Solving'],
+      features: [
+        'Solutions to 500+ coding problems',
+        'Organized by data structure and algorithm type',
+        'Detailed comments and explanations',
+        'Regular updates with new solutions'
+      ],
+      githubLink: 'https://github.com/Anujchoudhary87',
+      liveLink: null
+    }
+    
+//     {
+//   title: 'Lost and Found Portal',
+//   description: 'A secure C++ console-based application that allows students to report found items and search for lost ones. The portal uses file handling and object-oriented programming to manage and match item records efficiently.',
+//   technologies: ['C++', 'OOP', 'File Handling', 'Console I/O', 'STL'],
+//   features: [
+//     'User registration and login authentication',
+//     'Report and record found items with detailed attributes',
+//     'Search lost items with exact match logic and optional removal',
+//     'Admin features to view or erase lost and found entries'
+//   ],
+//   githubLink: 'https://github.com/Anujchoudhary87/Lost-and-Found-',
+//   liveLink: null
+// }
 
 
 
