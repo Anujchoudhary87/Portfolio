@@ -87,7 +87,7 @@ const Contact = () => {
 
                 
                 <a 
-                  href="https://codeforces.com/profile/AnujChoudhar" 
+                  href="https://codeforces.com/profile/AnujChoudhary" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="w-12 h-12 bg-white/10 rounded-lg flex items-center justify-center text-gray-400 hover:text-blue-400 hover:bg-blue-400/20 transition-all duration-300"
