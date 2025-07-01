@@ -72,7 +72,7 @@ const Hero = () => {
                 <Linkedin size={28} />
               </a>
               <a 
-                href="https://codeforces.com/profile/AnujChoudhar" 
+                href="https://codeforces.com/profile/AnujChoudhary" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-blue-400 transition-colors duration-300 hover:scale-110"
