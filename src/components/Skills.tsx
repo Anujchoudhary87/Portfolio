@@ -4,13 +4,17 @@ import React from 'react';
 const Skills = () => {
   const technicalSkills = [
     { name: 'C++', level: 95 },
+    { name: 'Python', level: 70 },
+    { name: 'JavaScript', level: 88 },
+    { name: 'HTML', level: 90 },
+    { name: 'CSS', level: 80 },
+     { name: 'React.js', level: 80 },
     { name: 'Data Structures & Algorithms', level: 90 },
     { name: 'Object-Oriented Programming', level: 88 },
     { name: 'STL (Standard Template Library)', level: 85 },
-    { name: 'Python', level: 70 },
     { name: 'Git & Version Control', level: 80 },
     { name: 'VS Code', level: 85 },
-    { name: 'File Handling', level: 82 }
+    
   ];
 
   const softSkills = [
@@ -18,7 +22,9 @@ const Skills = () => {
     'Problem-Solving',
     'Self-Learning',
     'Team Collaboration',
+    'Organization Skills',
     'Time Management',
+    'Active Listening',
     'Critical Thinking',
     'Attention to Detail',
     'Communication'
