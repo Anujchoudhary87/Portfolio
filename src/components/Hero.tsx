@@ -36,7 +36,7 @@ const Hero = () => {
                 Get In Touch
               </Button>
               <a
-  href="https://drive.google.com/file/d/1fYr93mHLBWMMWKWPRpKrztX_YyzbnyBP/view?usp=sharing"
+  href="https://drive.google.com/file/d/1Yw--wPOuOJaYvciaAtEKxlUhh3sy3TZH/view?usp=sharing"
   target="_blank"
   rel="noopener noreferrer"
 >
